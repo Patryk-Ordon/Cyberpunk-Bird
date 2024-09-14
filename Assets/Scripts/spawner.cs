@@ -6,7 +6,7 @@ using UnityEngine;
 public class spawner : MonoBehaviour
 {
     public float wait = 1.5F;
-    private float time = 0;
+    private float time = 1.45F;
     [SerializeField] float startV = 25;
     float v = 25;
     [SerializeField] float a = 3f;
